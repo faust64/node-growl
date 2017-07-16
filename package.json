@@ -23,7 +23,7 @@
     "lint": "eslint --ext js lib "
   },
   "engines": {
-    "node": ">=4.x"
+    "node": ">=0.10"
   },
   "dependencies": {
     "eslint-plugin-node": "^5.1.0"
