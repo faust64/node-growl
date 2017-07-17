@@ -1,3 +1,7 @@
+1.10.3 / 2017-07-17
+===================
+
+ * previous version never got shipped, reverting 1.10.* changes and forking to release a fix without breaking support with older NodeJS versions
 
 1.9.3 / 2016-09-05
 ==================
