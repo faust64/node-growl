@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/faust64/node-growl.svg?branch=master)](https://travis-ci.org/faust64/node-growl)
 
-[Node-Growl Fork](http://github.com/tj/node-growl). Fixing (1.9.2)[https://snyk.io/test/npm/growl/1.9.2] eval vulnerability, without dropping pre-node4 support.
+[Node-Growl Fork](http://github.com/tj/node-growl). Fixing [1.9.2](https://snyk.io/test/npm/growl/1.9.2) eval vulnerability, without dropping pre-node4 support.
 
 See [Node-Growl README](https://github.com/tj/node-growl/blob/master/Readme.md).
 
